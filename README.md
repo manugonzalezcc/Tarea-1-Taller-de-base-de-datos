@@ -89,7 +89,7 @@ Tarea 1 Taller de base de datos/
 
 ### Autor
 
-Manu González  
+Manuel González  
 [GitHub](https://github.com/manugonzalezcc)
 
 ---
